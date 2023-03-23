@@ -1,0 +1,19 @@
+header,footer{
+  border: 1px solid black;
+  height: 100px;
+  clear: both;
+}
+.box1 section{
+  height: 150px;
+  border: 1px solid black;
+  width: 100%;
+}
+.box2 section{
+  height: 200px;
+  border: 1px solid black;
+  width:50%;
+  float: left;
+}
+*{
+  box-sizing: border-box;
+}
